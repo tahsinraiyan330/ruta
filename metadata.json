@@ -1,0 +1,8 @@
+{
+  "name": "RUTA Engineering & Automation",
+  "description": "Industrial electrical, power, automation, and fire safety design services at 1 BDT/sq.ft for commercial and industrial clients by RUTA Engineering & Automation, featuring an automated calculator and client CRM.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
